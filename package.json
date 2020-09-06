@@ -33,7 +33,7 @@
     "karma-chrome-launcher": "~0.1.5",
     "karma-jasmine": "~0.2.1",
     "karma-requirejs": "~0.2.2",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.20",
     "lodash._escapestringchar": "^2.4.1",
     "lodash._objecttypes": "^2.4.1",
     "lodash._reinterpolate": "^2.4.1",
